@@ -18,6 +18,11 @@ The network is designed to support multiple user groups with:
 - High availability
 
 ---
+## 🖼️ Network Topology
+
+![Network Topology](./Topology-1.png)
+
+---
 
 ## 🏗️ Architecture
 
